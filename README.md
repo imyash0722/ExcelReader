@@ -2,8 +2,6 @@
 
 # ExcelReader
 
-<img src="banner.jpg" alt="ExcelReader Banner" width="100%">
-
 **Python tool for reading and writing Excel files using xlwings.**
 
 <p>
@@ -91,4 +89,6 @@ ExcelReader/
 
 <div align="center">
   <sub>ExcelReader v2.0.0</sub>
+  <br><br>
+  <img src="banner.jpg" alt="ExcelReader Banner" width="100%">
 </div>
