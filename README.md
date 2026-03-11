@@ -2,6 +2,8 @@
 
 # ExcelReader
 
+<img src="banner.jpg" alt="ExcelReader Banner" width="100%">
+
 **Python tool for reading and writing Excel files using xlwings.**
 
 <p>
